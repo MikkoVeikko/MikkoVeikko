@@ -1,5 +1,4 @@
-"Over here, look, look!"
-- Kids, since always
+"Over here, look, look!" - Kids, since always
 
 About me:
 - Learning to code since 2024 💾
