@@ -1,5 +1,7 @@
-Over here, look, look!
+"Over here, look, look!"
+- Kids, since always
 
+About me:
 - Learning to code since 2024 💾
 - I study with dedication before and after my workdays as a fulltime daycare worker 🌞
 - Currently studying FullStack development, and it's very satisfactory 🤤
